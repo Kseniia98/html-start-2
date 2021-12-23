@@ -1,0 +1,59 @@
+article {
+  box-sizing: border-box;
+  display: inline-block;
+  max-width: 49%;
+  padding: 20px;
+}
+
+.article-1 {
+  background-color: rgba(184, 205, 245, 0.795);
+}
+
+.article-2 {
+  position: absolute;
+  margin-left: 10px;
+  background-color: bisque;
+}
+
+h2 {
+  border-bottom: 5px solid;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.main-info {
+  display: inline-block;
+  line-height: 60px;
+  width: 60%;
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  width: 39%;
+  border-radius: 50%;
+}
+
+.info-image {
+  border-bottom: 5px solid;
+}
+
+h4 {
+  color: rgb(28, 37, 124);
+}
+
+h5 {
+  font-size: 15px;
+  color: rgb(88, 18, 18);
+}
+
+.job{
+  display: inline-block;
+  width: 47%;
+  padding-right: 15px;
+}
+
+.experience{
+  text-align: center;
+  margin-bottom: -10px;
+}
